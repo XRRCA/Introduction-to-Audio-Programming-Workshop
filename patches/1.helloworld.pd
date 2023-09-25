@@ -1,0 +1,12 @@
+#N canvas 827 239 527 327 12;
+#X msg 179 154 hello world;
+#X obj 179 247 print;
+#X floatatom 202 185 5 0 0 0 - - - 0;
+#X obj 217 214 bng 19 250 50 0 empty empty empty 17 7 0 10 #dfdfdf #000000 #000000;
+#X text 229 247 <-- object box;
+#X text 242 215 <-- bang (another GUI box);
+#X text 248 185 <-- GUI box (number atom box);
+#X text 268 153 <-- message box;
+#X connect 0 0 1 0 empty;
+#X connect 2 0 1 0 empty;
+#X connect 3 0 1 0 empty;
