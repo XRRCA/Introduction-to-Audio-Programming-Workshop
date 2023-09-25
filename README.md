@@ -1,7 +1,7 @@
 # Introduction-to-Audio-Programming-Workshop
 Collection of PureData patches and slides to get started with audio synthesis, sequencing, and fx chains using [visual-programming](https://github.com/XRRCA/SpatLab/wiki/Creative-Coding-and-Audio).
 
-![PlugData Example](<select image and zoom.gif>)
+![PlugData Example](<pd-pan2-example.gif>)
 
 ## Dependencies
 - [PureData](https://puredata.info)
